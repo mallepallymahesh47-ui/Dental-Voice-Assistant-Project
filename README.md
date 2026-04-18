@@ -78,8 +78,8 @@ voice-assistant/
 
 ## Screenshots
 
-![Screenshot 1](Output shots/Screenshot 2026-04-18 092404.png)
-![Screenshot 2](Output shots\IMG_20260418_123725.jpg)
+![Screenshot 1](Output_shots/Screenshot 2026-04-18 092404.png)
+![Screenshot 2](Output_shots\IMG_20260418_123725.jpg)
 
 
 ## 📊 Example Flow
