@@ -72,10 +72,10 @@ voice-assistant/
 
 ## 📊 Example Flow
 
-User: I have tooth pain
-Assistant: I recommend Dr. John Smith
-User: Book at 3 PM
-Assistant: Appointment confirmed
+- User: I have tooth pain
+- Assistant: I recommend Dr. John Smith
+- User: Book at 3 PM
+- Assistant: Appointment confirmed
 
 
 ## ⚠️ Notes
