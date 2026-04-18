@@ -38,19 +38,19 @@ This is a voice assistant application built with Python, designed to provide den
 
 
 ## 🏗️ Architecture
-User (Phone Call)
-   ↓
-Twilio (Media Stream)
-   ↓
-WebSocket Server (Python)
-   ↓
-Deepgram (Speech-to-Text & Text-to-Speech)
-   ↓
-LLM (Function Calling)
-   ↓
-Backend Functions (Booking Logic)
-   ↓
-MongoDB (Data Storage)
+User (Phone Call) ->
+
+Twilio (Media Stream) ->
+
+WebSocket Server (Python) ->
+
+Deepgram (Speech-to-Text & Text-to-Speech) ->
+
+LLM (Function Calling) ->
+
+Backend Functions (Booking Logic) ->
+
+MongoDB (Data Storage) ->
 
 ## Configuration
 
