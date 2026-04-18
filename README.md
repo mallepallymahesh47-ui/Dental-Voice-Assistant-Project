@@ -79,7 +79,7 @@ voice-assistant/
 ## Screenshots
 
 ![Screenshot 1](Output_shots/DB.png)
-![Screenshot 2](Output_shots\Demo.jpg)
+![Screenshot 2](Output_shots/Demo.jpg)
 
 
 ## 📊 Example Flow
